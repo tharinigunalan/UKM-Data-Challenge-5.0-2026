@@ -24,7 +24,7 @@ Using statistical analysis, time series forecasting, and an interactive Power BI
 
 ##  Key Insights & Findings
 
-### 🗑️ 1. Malaysia's Growing Food Waste Problem
+###  1. Malaysia's Growing Food Waste Problem
 
 - Approximately **43.9 billion kg of food waste** was estimated across the 2014–2024 analysis period.
 - Food waste accounted for approximately **44.4% of household waste composition**.
