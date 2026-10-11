@@ -131,4 +131,3 @@ By combining data analytics, forecasting, and interactive visualisation, this pr
 
 **Developed by Team Kaw Kaw Penguins | UKM Data Challenge 5.0**
 
-*"Less food wasted, more money saved, a more sustainable future."*
